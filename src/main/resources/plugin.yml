@@ -1,0 +1,9 @@
+name: Vanish_ICEOUT
+version: '${project.version}'
+main: n0devx.vanish_iceout.Vanish_ICEOUT
+api-version: 1.18
+authors: [ N0devx ]
+commands:
+  vanish:
+    permission: vanish.vanish
+    usage: "Usage: /vanish [Player]"
